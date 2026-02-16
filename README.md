@@ -44,7 +44,7 @@ O **Friday Local** é uma implementação moderna de assistente de voz que prior
 1.  **Clone o repositório:**
     ```bash
     git clone [https://github.com/JoaoPaulo121212/ia-local.git](https://github.com/JoaoPaulo121212/ia-local.git)
-    cd jarvis-local
+    cd ia-local
     ```
 
 2.  **Prepare o ambiente:**
