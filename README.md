@@ -1,6 +1,6 @@
 # 🧠 Friday Local (macOS Edition)
 
-> Um assistente virtual inteligente, privado e offline, projetado para rodar nativamente em Apple Silicon (M1/M2/M3/m4).
+> Um assistente virtual inteligente, privado e offline, projetado para rodar nativamente em Apple Silicon (M1/M2/M3/M4).
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Ollama](https://img.shields.io/badge/AI-Ollama-orange)
